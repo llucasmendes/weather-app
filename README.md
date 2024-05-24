@@ -69,6 +69,14 @@ go run main.go
 
 #### Construir com Docker
 
+## Executar Docker Compose
+
+No diretório do projeto, execute:
+
+```sh
+docker-compose up --build
+```
+
 Para construir a imagem Docker, execute:
 
 ```sh
